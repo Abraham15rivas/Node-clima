@@ -8,3 +8,7 @@ ejecutar
 ```
 npm install
 ```
+
+ejemplo 
+
+```node app.js -d "Caracas Venezuela"```
